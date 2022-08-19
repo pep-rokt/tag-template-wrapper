@@ -1,0 +1,14 @@
+{
+  "name": "tag-template-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js-wrapper-test.js",
+  "scripts": {
+    "start": "live-server index.html",
+    "server": "cd src && http-server --port 443 -S -C cert.pem",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
